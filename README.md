@@ -51,7 +51,3 @@ Transitioned manual and Excel-based mining reports to automated Power BI and SSR
 - [Bold Resume](https://bold.pro/my/eric-kausu-230329185804/655r)
 - [Dev Contractor Portal](https://devcontractorportal.azurewebsites.net/login)
 - [Kipatela Healthcare System](https://kipatelahealthcare.azurewebsites.net/login)
-
----
-
-Let me know if you'd like this tailored further for a particular role (like DevOps, full-stack, or cloud-focused), or if you want it in markdown format for direct GitHub upload.
