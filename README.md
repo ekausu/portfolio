@@ -1,11 +1,9 @@
----
-
 # Lead Software Engineer
 
 #### Technical Skills: C#, Blazor, SQL, Power BI, SSRS, Azure, PowerApps, SharePoint, ASP.NET, Python, Java, C++, Azure DevOps, Agile, REST APIs
 
 ## Education
-- **B.Eng., Software Engineering** | DMI St Eugene University, Lusaka
+**B.Eng., Software Engineering**  DMI St Eugene University, Lusaka
 
 ## Work Experience
 
